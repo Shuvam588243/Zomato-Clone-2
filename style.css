@@ -53,14 +53,14 @@ border : none;
 @media (min-width: 1024px)
 {
   .navbar{
-    padding : 0 50px;
+    padding : 0 30px;
   }
   .navbar_brand{
-    width : 150px;
+    width : 120px;
   }
   .navbar_button{
-    font-size : 20px;
-    padding : 15px 20px;
+    font-size : 18px;
+    padding : 10px 20px;
     font-weight: bold;
   }
 }
